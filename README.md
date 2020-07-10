@@ -1,4 +1,4 @@
-### Hi there 👋
+![James Ives](https://jamesiv.es/static/capital_one_dark-34b56889e184ecc5e778f1c0bf2bdf12.png)
 
 <!--
 **JamesIves/JamesIves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
