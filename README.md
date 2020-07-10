@@ -1,4 +1,4 @@
-<center><img src="https://jamesiv.es/images/logo.png"></center>
+<p align="center"><img src="https://jamesiv.es/images/logo.png"></p>
 
 <!--
 **JamesIves/JamesIves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
