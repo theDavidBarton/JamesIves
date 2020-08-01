@@ -1,5 +1,5 @@
 <p align="center"><img src="https://jamesiv.es/images/logo.png"></p>
-<p align="center">Are you interested in collaborating on a project or just have a general question? Wanna work with me at <a href="https://www.capitalone.com/">Capital One</a>? If so, <a href="https://jamesiv.es">please get in touch using the contact form on my website</a> or send me a message on <a href="https://www.linkedin.com/in/ivesjames/">LinkedIn</a> or <a href="https://twitter.com/_JamesIves">Twitter</a>.</p>
+<p align="center">Are you interested in collaborating on a project or just have a general question? If so, <a href="https://jamesiv.es">please get in touch using the contact form on my website</a> or send me a message on <a href="https://www.linkedin.com/in/ivesjames/">LinkedIn</a> or <a href="https://twitter.com/_JamesIves">Twitter</a>.</p>
 
 
 
